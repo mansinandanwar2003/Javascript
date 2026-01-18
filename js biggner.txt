@@ -1,0 +1,216 @@
+🟢 SECTION 1: Functions (Core Foundation)
+Basic Functions
+
+Write a function that takes two numbers and returns their sum.
+
+Write a function that checks whether a number is even or odd.
+
+Write a function that returns the square of a number.
+
+What happens if a function does not return anything?
+
+Function Expressions & Hoisting
+
+Write a function declaration and call it before it is defined. Explain why it works.
+
+Write a function expression and try calling it before declaration. What error do you get?
+
+Explain the difference between function declaration and function expression with code.
+
+First-Class Functions
+
+Store a function inside a variable and call it.
+
+Pass a function as an argument to another function.
+
+Return a function from another function and call it.
+
+Higher-Order Functions
+
+Write a function that accepts another function and executes it.
+
+Create a calculator function that takes an operation function (add, sub) as argument.
+
+Identify whether a given function is first-order or higher-order.
+
+Pure vs Impure Functions
+
+Write a pure function that adds two numbers.
+
+Write an impure function that modifies a global variable.
+
+Explain why pure functions are predictable.
+
+IIFE (Immediately Invoked Function Expression)
+
+Write an IIFE that prints “Hello JavaScript”.
+
+Why are IIFEs used? Give one real use case.
+
+Lexical Scope & Closures
+
+Create a nested function and access a variable from parent scope.
+
+Create a counter using closure.
+
+Explain lexical scoping in your own words.
+
+🟢 SECTION 2: Control Flow & Loops
+If / Else / Switch
+
+Write a program that prints grade based on marks.
+
+Rewrite an if-else condition using ternary operator.
+
+Use switch to print day names.
+
+Loops (for / while / do-while)
+
+Print numbers from 1 to 10 using for.
+
+Print even numbers between 1 and 50.
+
+Print numbers in reverse using while.
+
+Write a do-while loop that runs at least once.
+
+break & continue
+
+Stop a loop when a number reaches 7.
+
+Skip multiples of 3 in a loop.
+
+🟢 SECTION 3: Arrays (Very Important)
+Creation & Access
+
+Create an array of numbers and print the first and last element.
+
+Modify the third element of an array.
+
+Looping Arrays
+
+Print all elements using for.
+
+Print elements using for...of.
+
+Print index and value using forEach.
+
+Array Methods
+
+Use push, pop, shift, unshift on an array.
+
+Remove specific elements using splice.
+
+Copy part of an array using slice.
+
+map / filter / reduce
+
+Use map to double array values.
+
+Use filter to get only even numbers.
+
+Use reduce to find sum of array elements.
+
+Use reduce to find maximum value.
+
+Spread & Destructuring
+
+Copy an array using spread operator.
+
+Merge two arrays using spread.
+
+Destructure first two elements of an array.
+
+Sorting & Logic
+
+Sort numbers in ascending order.
+
+Reverse an array manually (no reverse()).
+
+Move all zeroes to the end of array.
+
+Find duplicate elements in an array.
+
+Solve Two Sum problem (basic).
+
+🟢 SECTION 4: Objects (Very Important)
+Object Basics
+
+Create an object representing a student.
+
+Access object properties using dot and bracket notation.
+
+Add, update, and delete object properties.
+
+Nested Objects & Deep Access
+
+Create an object inside another object.
+
+Access deeply nested values.
+
+Explain what deep access means.
+
+Looping Objects
+
+Loop over object using for...in.
+
+Print keys using Object.keys().
+
+Print values using Object.values().
+
+Print key-value pairs using Object.entries().
+
+Spread & Cloning
+
+Create a shallow copy of an object using spread.
+
+Explain difference between shallow and deep copy.
+
+Create a deep copy using JSON.parse(JSON.stringify()).
+
+Optional Chaining
+
+Access deeply nested property safely using optional chaining.
+
+Explain why optional chaining is useful.
+
+Computed Properties
+
+Use a variable as an object key.
+
+Dynamically add properties to an object.
+
+🟢 SECTION 5: Advanced but Beginner-Safe Concepts
+Rest Operator
+
+Write a function that accepts any number of arguments.
+
+Explain difference between rest and spread operator.
+
+Hoisting
+
+Predict output of variables declared using var, let, const.
+
+Explain temporal dead zone.
+
+Truthy & Falsy
+
+List all falsy values in JavaScript.
+
+Predict output using truthy/falsy values.
+
+🟢 SECTION 6: Thinking & Logic Practice (Important)
+
+Count frequency of elements in an array.
+
+Convert array into object with counts.
+
+Find unique values from an array.
+
+Flatten a nested array (basic).
+
+Write a function that checks palindrome.
+
+Write a function that reverses a string.
+
+Create a mini todo list logic using arrays & objects.

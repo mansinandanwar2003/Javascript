@@ -1,0 +1,215 @@
+🔥 PART 1: PROMISES, ASYNC / AWAIT, CALLBACKS
+✅ Promises
+
+What is a Promise in JavaScript?
+
+Why were Promises introduced?
+
+Explain the three states of a Promise.
+
+Create a Promise that resolves after 2 seconds.
+
+What happens if a Promise is rejected?
+
+What is .then() and .catch()?
+
+How does .finally() work?
+
+What happens if you return a value from .then()?
+
+What happens if a Promise inside .then() fails?
+
+Can multiple .then() be chained? Explain with example.
+
+✅ Async / Await
+
+What is async and await?
+
+Why is async/await better than .then() chaining?
+
+Can we use await without async?
+
+What happens if an awaited promise rejects?
+
+How to handle errors in async/await using try...catch?
+
+✅ Callback & Callback Hell
+
+What is a callback function?
+
+Why are callbacks used in JavaScript?
+
+What is callback hell?
+
+Convert a callback-based function into Promise-based.
+
+How does async/await solve callback hell?
+
+🔥 PART 2: THIS, CALL, APPLY, BIND
+✅ this Keyword
+
+What is this keyword?
+
+What does this refer to in:
+
+global scope
+
+object method
+
+function
+
+arrow function?
+
+Why arrow functions don’t have their own this?
+
+✅ call(), apply(), bind()
+
+What is the use of call()?
+
+Difference between call() and apply()?
+
+What does bind() return?
+
+When should we use bind()?
+
+Write a real-world example of call, apply, and bind.
+
+🔥 PART 3: OBJECTS, CLASSES & CONSTRUCTORS
+✅ Objects
+
+How to create an object in JavaScript?
+
+How to access object properties?
+
+Difference between dot and bracket notation?
+
+How to loop through an object?
+
+✅ Constructor Function & Classes
+
+What is a constructor function?
+
+How does new keyword work internally?
+
+Difference between constructor function and class?
+
+Create a class with constructor and methods.
+
+What is inheritance in classes?
+
+What is super()?
+
+🔥 PART 4: ARRAYS & HIGHER ORDER FUNCTIONS
+✅ Arrays
+
+Difference between primitive and reference types?
+
+How to add/remove items from array?
+
+Difference between map, filter, reduce?
+
+Write code to remove duplicates from array.
+
+Flatten a multidimensional array.
+
+Find max and min in array.
+
+Sort array of numbers and strings.
+
+✅ Higher Order Functions
+
+What is a higher-order function?
+
+Explain map, filter, reduce with real example.
+
+Difference between forEach and map?
+
+Write your own custom map() function.
+
+🔥 PART 5: DOM, EVENTS & BROWSER
+✅ DOM
+
+What is DOM?
+
+How to select elements using JS?
+
+Difference between getElementById and querySelector?
+
+How to create and append elements dynamically?
+
+✅ Events
+
+What is an event?
+
+Difference between event bubbling and capturing?
+
+How to stop event propagation?
+
+What is event delegation?
+
+Real-life use case of event delegation.
+
+🔥 PART 6: BROWSER STORAGE & BOM
+✅ Storage
+
+Difference between localStorage, sessionStorage, cookies?
+
+When should you use cookies?
+
+How to store and retrieve objects in localStorage?
+
+✅ BOM (Browser Object Model)
+
+What is BOM?
+
+Difference between BOM and DOM?
+
+What are window, screen, location, history objects?
+
+🔥 PART 7: TIMERS & ASYNC BEHAVIOR
+✅ Timers
+
+Difference between setTimeout and setInterval?
+
+How to stop setTimeout and setInterval?
+
+What is event loop?
+
+How does JavaScript handle asynchronous code?
+
+🔥 PART 8: EXECUTION CONTEXT & MEMORY
+
+What is execution context?
+
+What is call stack?
+
+What is hoisting?
+
+How does memory allocation work in JS?
+
+🔥 PART 9: JSON & DATA HANDLING
+
+What is JSON?
+
+Difference between JSON and JavaScript object?
+
+Use JSON.stringify() and JSON.parse()
+
+Why is JSON used in APIs?
+
+🔥 FINAL CHALLENGE QUESTIONS
+
+Build a mini todo app logic (no UI).
+
+Fetch data from an API and display it.
+
+Explain how browser handles async code.
+
+Explain complete JS execution flow step-by-step.
+
+🔥 HOW YOU SHOULD PRACTICE
+
+✅ Solve 5–10 questions daily
+✅ Write code for every question
+✅ Ask me to review your answer
+✅ I’ll correct + explain deeply
